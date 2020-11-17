@@ -15,8 +15,6 @@ A OpenCore EFI configuration for ASUS TUF Z570 Gaming Plus (WIFI)
 - AMDRyzenCPUPowerManagement: CPU PowerManagement
 - AppleALC: For Audio
 - AppleMCEReporterDisabler: Not really needed, simple having it for a backup
-- IntelBluetoothFirmware: For Bluetooth
-- IntelBluetoothInjector
 - Lilu: Necessary for quite all plugins as underlaying library
 - RealtekRTL8111: To make LAN work
 - VirtualSMC: Faking SMBios and so on
