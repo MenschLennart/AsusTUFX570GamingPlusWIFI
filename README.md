@@ -1,8 +1,8 @@
 # AsusTUFX570GamingPlusWIFI
 A OpenCore EFI configuration for ASUS TUF Z570 Gaming Plus (WIFI)
-- macOS Big Sur Beta 10 (20A5395g)
+- macOS Big Sur
 - iMacPro1,1 SMBios emulated
-- OpenCore 0.6.2
+- OpenCore 0.6.3
 - with Canopy (GUI)
 
 ### Drivers
