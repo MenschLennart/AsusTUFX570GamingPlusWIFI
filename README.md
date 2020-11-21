@@ -5,6 +5,14 @@ A OpenCore EFI configuration for ASUS TUF X570 Gaming Plus (WIFI)
 - OpenCore 0.6.3
 - with Canopy (GUI)
 
+## 1. HowTo
+Follow this guide https://dortania.github.io to create a bootable USB Stick or simular to boot into MacOS Installer with OpenCore.
+
+
+## 2. Edit BIOS
+Follow this guide here
+https://dortania.github.io/OpenCore-Install-Guide/AMD/zen.html#amd-bios-settings
+
 ### Drivers
 - HfsPlus
 - OpenCanopy
@@ -29,6 +37,7 @@ A OpenCore EFI configuration for ASUS TUF X570 Gaming Plus (WIFI)
 
 ### What does work
 - Wifi
+- LAN
 - Bluetooth, sometimes has hickups
 - Handoff
 - iServices (you do need to generate SMBios data to get it work)
